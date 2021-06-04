@@ -1,0 +1,2 @@
+# Fuel-Economy
+Fuel Economy Blockchain: We install fuel line meters and use it to directly measure consumption &amp; other metrics on an individual vehicle, when paired with a datastream from the EMS https://carbiketech.com/engine-management-system-ems/ - we now have data that is valuable enough to be stored on a blockchain, and this knowledge couple with repair data (Carfax) raises the resale value of a motor vehicle! Full Transparency. We'll aggregate the data and make something like this: https://www.fueleconomy.gov/feg/bymodel/2006_Ford_F150_Pickup.shtml
